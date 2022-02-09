@@ -15,4 +15,4 @@ https://www.patreon.com/shiru8bit
 # Check demo video
 
 - [one](https://www.youtube.com/watch?v=BGOUavIc9Fk)
-- [two] (https://www.youtube.com/watch?v=pFxaQLD2BQ8)
+- [two](https://www.youtube.com/watch?v=pFxaQLD2BQ8)
